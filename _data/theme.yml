@@ -5,17 +5,17 @@ highlight_color: '#3498db'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: markwalle
+  github: mark-walle
   #bitbucket: philipj
   # hacker_news: swanson
   #stackexchange: 348619
   #stackoverflow: 348619
   twitter: theoneness
-  facebook: theoneness
+  # facebook: theoneness
   #tumblr: animalygifs
-  linkedin: markwalle
-  #gplus: 110552447039675960964
-  gravatar: be3bc8acedce3a2bd85054c53199d427
+  linkedin: mwalle
+  #gplus: 
+  # gravatar: 
   #flickr: johndoe
 
 # "Hi, I'm _______"
