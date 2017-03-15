@@ -5,7 +5,7 @@ categories:
 - blog
 ---
 
-As I begin this post, f.lux has just adjusted the monitor luminance down to a candle-like 1900 Kelvin, reminding me that it's late. As stated, today I finished configuring Github Pages for the first time, which has meant some quick reading on Jekyll, finding a theme, and configuring the repository to host a page. Despite being the first time I've tried this, it was surprisingly straightforward.
+As I begin this post, _f.lux_ has just adjusted the monitor luminance down to a candle-like 1900 Kelvin, reminding me that it's late. As stated, today I finished configuring Github Pages for the first time, which has meant some quick reading on Jekyll, finding a theme, and configuring the repository to host a page. Despite being the first time I've tried this, it was surprisingly straightforward.
 
 The motivation from this comes from the negging task over my head that is to create a personal portfolio at some point. Instead I've been lately distracted attending [battlesnake](battlesnake.io), [Hack Uvic](hackuvic.com), learning [MEAN Stack Development](https://www.udemy.com/the-web-developer-bootcamp/).
 
