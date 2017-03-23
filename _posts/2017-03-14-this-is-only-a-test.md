@@ -16,5 +16,3 @@ The motivation from this comes from the negging task over my head that is to cre
 1. Create posts for a number of projects, plans, readings, or other interesting things.
 2. Learn Jekyll better and begin formulating a theme for use here. I like this theme, [Lagom](https://github.com/swanson/lagom), but it lacks a personal zest. I am currently really into CLI and Outrun, so it might be something hybridizing those things.
 3. Mix it in with a landing site to host at MarkWalle.com; this blog being linked through that.
-
-I am also a little enthusiastic to just write something for myself, which will be this first in doing so in a long time. For now, that is all. Goodnight.
