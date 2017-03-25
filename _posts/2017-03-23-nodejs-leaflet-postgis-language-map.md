@@ -8,6 +8,8 @@ categories:
 ###### My (unfinished) edition of ... 
 # [the First Peoples' Language Map of BC!](http://fplangmap.maakusii.com/)
 
+GitHub Repo: [/mark-walle/langmap](https://github.com/mark-walle/langmap)
+
 There's a more robustly developed and official map commissioned by the First Peoples’ Heritage, Language and Culture Council; this is a recreation... an homage. You can view their version of the map at [maps.fphlcc.ca](http://maps.fphlcc.ca/). I'm using their data and recreating the map on a different tech stack. I thought this data was great, and felt like would is a way to hack this for more utility in the future, if it were available in a simple, dependency free format. I also saw the opportunity to get exposure to some new technologies. My goal was to use NodeJS and build it as a single-page app.
 
 I wanted to learn how to use Leaflet in NodeJS, and also gain some exposure to postGIS. I have a fairly solid Relational Database background, but not as much for GIS data specifically. I went to work deploying and configuring a postGIS database through Amazon Web Services.
